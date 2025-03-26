@@ -1,1 +1,1 @@
-![alt text](Screenshot_api_testing)
+![alt text](Screenshot_api_testing.png)
